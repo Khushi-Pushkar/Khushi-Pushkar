@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-pushkar" alt="khushi-pushkar" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
-
 - 📫 How to reach me **khushipushkar.kp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
